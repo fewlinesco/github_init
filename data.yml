@@ -1,0 +1,34 @@
+types:
+  addition: "93c95c"
+  environment: "fad9c9"
+  experience: "ffc27a"
+  feedback: "cc317c"
+  improvement: "63c0fd"
+  inactive: "d3dbe2"
+  mindless: "fef2c0"
+  pending: "fbc92f"
+  platform: "c1d5f1"
+  problem: "ee0701"
+labels:
+  bug: problem
+  chore: mindless
+  copy: experience
+  design: experience
+  discussion: feedback
+  duplicate: inactive
+  enhancement: improvement
+  feature: addition
+  "in progress": pending
+  invalid: inactive
+  legal: mindless
+  "on hold": inactive
+  optimization: improvement
+  production: problem
+  question: feedback
+  rfc: feedback
+  security: problem
+  staging: environment
+  test: environment
+  ux: experience
+  watchlist: pending
+  wontfix: inactive
